@@ -1,0 +1,5 @@
+Saya Aditya, saya usul untuk praktikum sebaiknya menggunakan tools sebagai berikut:
+1. GIT dan GITHUB untuk version control
+2. Trello untuk unggah tugas, modul, dan aturan praktikum
+3. VS Code untuk coding
+4. Visio atau Diagram.net untuk design
